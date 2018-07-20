@@ -65,6 +65,6 @@ You can also improve performance by dropping the image quality using the instruc
 
 
 ## Lab Workbook
-If you don't have a copy of the printed materials you can access the [Lab Workbook](http://ibm-blockchain-pot.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.8.1.pdf) online.
+If you don't have a copy of the printed materials you can access the [Lab Workbook](http://ibm-blockchain-pot.github.io/docs/Blockchain-PoT-Lab-Workbook-v1.8.1.pdf) and [Errata](http://ibm-blockchain-pot.github.io/docs/BlockchainLabErrata.pdf) online.
 
 
